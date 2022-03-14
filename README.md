@@ -1,4 +1,4 @@
-# My Selection Of Visual Studio Extensions <img alt=".Net" src="https://img.shields.io/badge/Visual%20Studio-512BD4?logo=visualstudio&logoColor=white&style=flat" />
+# My Selection Of Visual Studio Extensions <img alt=".Net" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat" />
 > A curated list of extensions that I used with Visual Studio.
 
 ## Contents
