@@ -1,5 +1,5 @@
 # My Selection Of Visual Studio Extensions <img alt=".Net" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat" />
-> A curated list of extensions that I used with Visual Studio.
+> A curated list of extensions that I used with Visual Studio 2022.
 
 ## Contents
 
@@ -17,8 +17,7 @@
 
 - Theme:
   - [File Icons](https://github.com/madskristensen/FileIcons): Adds icons for files that are not recognized by Visual Studio's Solution Explorer ;
-  - [VSColorOutput](https://mike-ward.net/vscoloroutput/): Change the color of a line emitted to the output window based on specified rules ;
-  - [Viasfora](https://viasfora.com/): Improves the text editing experience through the use of color and other features.
+  - [VSColorOutput](https://mike-ward.net/vscoloroutput/): Change the color of a line emitted to the output window based on specified rules.
 
 - Features:
   - [Open Command Line](https://github.com/madskristensen/OpenCommandLine): Adds a new command to the project context menu that will open a command prompt on the project's path ;
